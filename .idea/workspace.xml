@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="Initial Commit&#10;Prepared the Data">
+    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="cleaned the data&#10;interpolated the data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
@@ -81,7 +81,9 @@
       <updated>1724681958608</updated>
       <workItem from="1724681960001" duration="803000" />
       <workItem from="1724682802805" duration="6526000" />
-      <workItem from="1724748369568" duration="11542000" />
+      <workItem from="1724748369568" duration="12800000" />
+      <workItem from="1724854576362" duration="2487000" />
+      <workItem from="1724914633557" duration="3025000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit&#10;Prepared the Data">
       <option name="closed" value="true" />
@@ -91,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724689274742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cleaned the data&#10;interpolated the data">
+      <option name="closed" value="true" />
+      <created>1724781632546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724781632546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit&#10;Prepared the Data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;Prepared the Data" />
+    <MESSAGE value="cleaned the data&#10;interpolated the data" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned the data&#10;interpolated the data" />
   </component>
 </project>

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="cleaned the data&#10;interpolated the data">
+    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="closed the gap, created lagged features, split data into test and training data, scaled the humidity data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
@@ -16,6 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CodingToffee"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CodingToffee/appliction_ilc_task2.git",
+    "accountId": "6dd5a93c-e019-4ee1-b873-d5bd364799c0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -66,8 +78,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
-        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
       </set>
     </attachedChunks>
   </component>
@@ -83,7 +95,9 @@
       <workItem from="1724682802805" duration="6526000" />
       <workItem from="1724748369568" duration="12800000" />
       <workItem from="1724854576362" duration="2487000" />
-      <workItem from="1724914633557" duration="3025000" />
+      <workItem from="1724914633557" duration="4432000" />
+      <workItem from="1725177131228" duration="379000" />
+      <workItem from="1725177879158" duration="9450000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit&#10;Prepared the Data">
       <option name="closed" value="true" />
@@ -101,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724781632546</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="closed the gap, created lagged features, split data into test and training data, scaled the humidity data">
+      <option name="closed" value="true" />
+      <created>1724918495020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724918495020</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +143,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit&#10;Prepared the Data" />
     <MESSAGE value="cleaned the data&#10;interpolated the data" />
-    <option name="LAST_COMMIT_MESSAGE" value="cleaned the data&#10;interpolated the data" />
+    <MESSAGE value="closed the gap, created lagged features, split data into test and training data, scaled the humidity data" />
+    <option name="LAST_COMMIT_MESSAGE" value="closed the gap, created lagged features, split data into test and training data, scaled the humidity data" />
   </component>
 </project>

@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="changed the input data: no light anymore,&#10;created plotting method,&#10;created inverse transform method">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3aea2a72-0063-40be-b934-89cd1e4a4b9a" name="Changes" comment="calculated the predictions for the next 48 Hours&#10;visualized the predictions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +102,7 @@
       <workItem from="1725177879158" duration="9489000" />
       <workItem from="1725262329140" duration="4989000" />
       <workItem from="1725348975558" duration="4080000" />
-      <workItem from="1725432819166" duration="19142000" />
+      <workItem from="1725432819166" duration="19290000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit&#10;Prepared the Data">
       <option name="closed" value="true" />
@@ -163,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725443897355</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="calculated the predictions for the next 48 Hours&#10;visualized the predictions">
+      <option name="closed" value="true" />
+      <created>1725457008908</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725457008908</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +193,8 @@
     <MESSAGE value="looked at the test predictions" />
     <MESSAGE value="changed the data structure -&gt; only one model required now" />
     <MESSAGE value="changed the input data: no light anymore,&#10;created plotting method,&#10;created inverse transform method" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed the input data: no light anymore,&#10;created plotting method,&#10;created inverse transform method" />
+    <MESSAGE value="calculated the predictions for the next 48 Hours&#10;visualized the predictions" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculated the predictions for the next 48 Hours&#10;visualized the predictions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
